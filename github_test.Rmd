@@ -8,5 +8,7 @@ output:
 ```{r}
 vars <- sample(1:100, 5)
 vars
+
+plot(cars)
 ```
 That was crazy!
