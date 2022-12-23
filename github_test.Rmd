@@ -1,0 +1,12 @@
+---
+title: "Github Test"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r}
+vars <- sample(1:100, 5)
+vars
+```
+That was crazy!
