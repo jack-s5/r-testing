@@ -1,0 +1,11 @@
+---
+title: "maybe r markdown is better"
+output: html_document
+date: "2022-12-23"
+---
+```{r}
+plot(cars)
+variables <- sample(1:100, 5)
+variables
+```
+
